@@ -1,4 +1,5 @@
-# ------------------------- MovieLens Capstone ---------------------------------
+# ------------------------- Choose Your Own - Capstone -------------------------
+# Classification Task: Biomechanical features of orthopedic patients
 # Yap Kim Thow | 8th Jan 2021
 
 #### SECTION 1: INTRODUCTION AND DATA EXPLORATION
